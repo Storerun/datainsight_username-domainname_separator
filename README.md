@@ -1,1 +1,1 @@
-# datainsight_username-domainname_separator
+# datainsight_username-domain_name_separator
